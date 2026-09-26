@@ -8,7 +8,7 @@ sdk_version: 1.28.0
 app_file: app.py
 pinned: true
 license: mit
-short_description: AI Real-World Action Agent — Weather-Aware Daily Planning with LangGraph
+short_description: AI Agent for weather-aware daily planning & action
 ---
 
 # 🛡️ DayGuard — AI Real-World Action Agent
